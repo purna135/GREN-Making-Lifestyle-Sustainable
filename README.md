@@ -22,8 +22,6 @@ _Approach:_ <br/>
 4. **Alternative** ECO Product Suggestion with comparison
 Providing Discounts and **FREE Shipping** in exchange for _recyclable_ waste. 
 5. **Carbon Footprint Dashboard** to the analysis of your contribution with visualizations on the basis of past purchases.
-<br/>
-<br/>
 
 ## 🛠️ How we built it
 **Ideation** <br/>
@@ -55,7 +53,13 @@ We made a website to make create awareness about the cause. <br/>
 * Creating a social community with users' social carbon footprint ratings.
 * Browser Extension to reach masses while providing fundamental features in an extension on e-Commerce giants like Amazon.
 
+## Built With
+- machine-learning
+- python
+- canva
+- figma
+- javascript
 
-##Try it out links
-Figma Prototype: https://www.figma.com/proto/a5BSFM3Kf4V5yrzVBh9yHg/VR1?node-id=2%3A821&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A821
-Website: https://purnachandramansingh.github.io/Gren-Hack-Cambridge-Atlas/
+## Try it out links
+* <a href="https://www.figma.com/proto/a5BSFM3Kf4V5yrzVBh9yHg/VR1?node-id=2%3A821&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A821">Figma Prototype</a>
+* <a href="https://purnachandramansingh.github.io/Gren-Hack-Cambridge-Atlas/">Website</a>
