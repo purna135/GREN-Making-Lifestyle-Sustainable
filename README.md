@@ -1,4 +1,4 @@
-# Gren Hack Cambridge Atlas - 2022
+# 🌳 GREN - Making Lifestyle Sustainable 🌎
 
 ## 💡Inspiration
 _Stat:_ <br/> 
